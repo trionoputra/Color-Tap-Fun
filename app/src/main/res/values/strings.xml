@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Color tap fun</string>
+
+    <string name="appid">ca-app-pub-2804081175309116~2155774378</string>
+    <string name="banner_ad_unit_id">ca-app-pub-2804081175309116/3049343200</string>
+    <string name="interstitial_id">ca-app-pub-2804081175309116/9391390278</string>
+
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+    <string name="default_notification_channel_name" translatable="true">update</string>
+
+</resources>
